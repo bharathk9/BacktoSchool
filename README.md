@@ -1,2 +1,2 @@
 # BacktoSchool
-</h> This is simple text </h1>
+<h1> This is simple text </h1>
